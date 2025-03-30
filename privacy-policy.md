@@ -15,4 +15,5 @@ Dado que los datos se almacenan de forma local, te recomendamos mantener tu disp
 Esta política podrá actualizarse para reflejar mejoras o cambios en la aplicación. En caso de cambios importantes, se notificará dentro de la app.
 6. Contacto
 Si tienes dudas o preguntas sobre esta política, puedes escribirnos a: tudiaconia@gmail.com
+
 © 2025 KarmaOS. Todos los derechos reservados.
